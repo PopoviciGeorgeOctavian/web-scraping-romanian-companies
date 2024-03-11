@@ -15,7 +15,7 @@ This Python script scrapes data from the Wikipedia page "List of companies of Ro
 ## Getting Started
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/web-scraping-project.git
+   git clone https://github.com/PopoviciGeorgeOctavian/web-scraping-romanian-companies.git
 
 
 ## Implementation
